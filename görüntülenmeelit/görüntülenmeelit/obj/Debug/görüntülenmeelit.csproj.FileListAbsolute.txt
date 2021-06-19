@@ -1,0 +1,9 @@
+C:\Users\yavuz\source\repos\görüntülenmeelit\görüntülenmeelit\obj\Debug\görüntülenmeelit.csprojAssemblyReference.cache
+C:\Users\yavuz\source\repos\görüntülenmeelit\görüntülenmeelit\obj\Debug\görüntülenmeelit.Properties.Resources.resources
+C:\Users\yavuz\source\repos\görüntülenmeelit\görüntülenmeelit\obj\Debug\görüntülenmeelit.csproj.GenerateResource.cache
+C:\Users\yavuz\source\repos\görüntülenmeelit\görüntülenmeelit\bin\Debug\görüntülenmeelit.exe.config
+C:\Users\yavuz\source\repos\görüntülenmeelit\görüntülenmeelit\bin\Debug\görüntülenmeelit.exe
+C:\Users\yavuz\source\repos\görüntülenmeelit\görüntülenmeelit\bin\Debug\görüntülenmeelit.pdb
+C:\Users\yavuz\source\repos\görüntülenmeelit\görüntülenmeelit\obj\Debug\görüntülenmeelit.Form1.resources
+C:\Users\yavuz\source\repos\görüntülenmeelit\görüntülenmeelit\obj\Debug\görüntülenmeelit.exe
+C:\Users\yavuz\source\repos\görüntülenmeelit\görüntülenmeelit\obj\Debug\görüntülenmeelit.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "görüntülenmeelit", "görüntülenmeelit\görüntülenmeelit.csproj", "{FBCDF5A0-0C96-47EE-A4E3-F3019D9EA41D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBCDF5A0-0C96-47EE-A4E3-F3019D9EA41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCDF5A0-0C96-47EE-A4E3-F3019D9EA41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCDF5A0-0C96-47EE-A4E3-F3019D9EA41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCDF5A0-0C96-47EE-A4E3-F3019D9EA41D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {369D94CB-4617-4272-B9E4-1C256D93D03F}
+	EndGlobalSection
+EndGlobal
